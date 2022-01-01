@@ -1,0 +1,3 @@
+// Finite Impactor (PvP)
+//notes:Use Palindrome instead for better rolls|tags:rad,mkb,pvp,experimental
+dimwishlist:item=-3813153080

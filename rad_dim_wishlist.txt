@@ -1,0 +1,11 @@
+// Finite Impactor (PvP)
+//notes:PvP - Experimental Max AA + Cone roll|tags:rad,mkb,pvp,experimental
+dimwishlist:item=3813153080&perks=1570042021,4152709778
+
+// Eyasluna (PvP)
+//notes:PvP - Lots possible here.  RF gives us a Palindrome rival, PM seems to be a solid value pick. MT gives us consistency, Snap for reflex gameplay, while Headstone seems to have some solid value, but requires a playstyle. {Fastdraw,Truesight}{HCR,Ricochet} not in the roll.|tags:rad,mkb,pvp
+dimwishlist:item=235827225&perks=1428297954,588594999
+dimwishlist:item=235827225&perks=2846385770,588594999
+dimwishlist:item=235827225&perks=2846385770,957782887
+dimwishlist:item=235827225&perks=2846385770,124408337
+dimwishlist:item=235827225&perks=1428297954,124408337
