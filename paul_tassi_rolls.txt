@@ -1,0 +1,80 @@
+// Deafening Whisper (PvE)
+//notes:Paul Tassi - This is the only wave frame grenade launcher you can find any more now that we lost Season of the Dawn weapons. Autoloading is a good call and Lead from Gold ensures you’ll always have ammo. Rampage for damage, Wellspring for great ability regen.
+dimwishlist:item=981718087&perks=1556840489,3425386926
+dimwishlist:item=981718087&perks=1556840489,3592538738
+dimwishlist:item=981718087&perks=1556840489,3300816228
+//notes:Paul Tassi - This is the only wave frame grenade launcher you can find any more now that we lost Season of the Dawn weapons. You can sub in Ambitious Assassin here if you like having two in the chamber frequently on your breaches.
+dimwishlist:item=981718087&perks=2010801679,3425386926
+dimwishlist:item=981718087&perks=2010801679,3592538738
+
+// Corsair's Wrath (PvE)
+//notes:Paul Tassi - Stealing this one from Rick Kackis. Turns out this roll of Corsair’s Wrath is actually quite good after the Linear Fusion buff because of the damage boost on High Impact and Pulse Monitor refilling your ammo on even mild injury for constant DPS.
+dimwishlist:item=2714022207&perks=972757866,2213355989
+
+// Extraordinary Rendition (PvE)
+//notes:Paul Tassi - One of my favorite SMGs in the game. Overflow stacks the magazine insanely high, and One for All is a great call on SMGs for a lengthy damage boost that will activate frequently.
+dimwishlist:item=1097616550&perks=3643424744,3425386926
+dimwishlist:item=1097616550&perks=3643424744,4049631843
+//notes:Paul Tassi - One of my favorite SMGs in the game. Subsistence got buffed on SMGs, plus we now have infinite primary ammo so no reduced reserves, and One for All is a great call on SMGs for a lengthy damage boost that will activate frequently. Another good option.
+dimwishlist:item=1097616550&perks=1820235745,4049631843
+dimwishlist:item=1097616550&perks=1820235745,3425386926
+
+// Threaded Needle (PvE)
+//notes:Paul Tassi - At this point, one of the most on-meta Legendary DPS options in the game, even after the Vorpal nerf. Grab one.
+dimwishlist:item=3075224551&perks=3300816228,1546637391
+
+// Code Duello (PvE)
+//notes:Paul Tassi - This is a very fun mob clearing variant of one of my favorite rocket launchers.
+dimwishlist:item=2496242052&perks=951095735,2396489472
+//notes:Paul Tassi - This is the boss DPS version, albeit Code Duello is not quite as must-have as it used to be in this new age of Gjallarhorn.
+dimwishlist:item=2496242052&perks=3300816228,3927722942
+
+// Chroma Rush (PvE)
+//notes:Paul Tassi - One of the best feeling auto rifles in the game. Adrenaline Junkie is a good pick after this season given the recent buff.
+dimwishlist:item=1119734784&perks=1820235745,3425386926
+dimwishlist:item=1119734784&perks=1820235745,11612903
+//notes:Paul Tassi - One of the best feeling auto rifles in the game. If you like fast reloads instead, you can go with this combo, and put on Kill Clip for big damage.
+dimwishlist:item=1119734784&perks=2779035018,3425386926
+dimwishlist:item=1119734784&perks=2779035018,1015611457
+
+// Gridskipper (PvE)
+//notes:Paul Tassi - Moving Target/Multi-Kill Clip is the Fallout PvP roll you may want to seek out, or you can do Tunnel Vision if you want it to be even stickier after kills
+dimwishlist:item=1621558458&perks=588594999,2458213969
+dimwishlist:item=1621558458&perks=2946784966,2458213969
+//notes:Paul Tassi - I have a sneaking suspicion that pulse rifles are getting a buff in PvE soon, and when that happens, this is one roll I would pick up since this can’t roll Outlaw or Feeding Frenzy.
+dimwishlist:item=1621558458&perks=2450788523,4104185692
+
+// Ignition Code (PvE)
+//notes:Paul Tassi - Slideshot to reload a grenade launcher is one of the best perk/gun combos in the game, so don’t miss this opportunity before it goes away.
+dimwishlist:item=304659313&perks=3032599245,3161816588,1546637391
+dimwishlist:item=304659313&perks=3301904089,3161816588,1546637391
+
+// Vulpecula (PvE)
+//notes:Paul Tassi - Only two hand cannons can get this roll, and the other is the somewhat harder-to-farm Eyasluna in the dungeon. Grab this one for all your Stasis build needs.
+dimwishlist:item=1622998472&perks=1168162263,124408337
+//notes:Paul Tassi - A very fun combo that grabs special and heavy ammo out of the air with explosive rounds. Great for higher level content.
+dimwishlist:item=1622998472&perks=3700496672,3038247973
+
+// Wolftone Draw (PvE)
+//notes:Paul Tassi - Dragonfly’s recent buff is no joke, and if you can’t have Trinity Ghoul on, this is great for mob clearing and for champion mod bow seasons.
+dimwishlist:item=3472875143&perks=201365942,2848615171
+dimwishlist:item=3472875143&perks=951095735,2848615171
+
+// Hawkmoon (PvP)
+//notes:Paul Tassi - Rangefinder or Moving Target – Probably your best options for PvP. You’re not really using Hawkmoon for PvE.|tags:pvp
+dimwishlist:item=3856705927&perks=2846385770
+dimwishlist:item=3856705927&perks=588594999
+
+// Dead Man's Tale
+//notes:Paul Tassi - These each have their own use case, Vorpal for champions or supering enemies, Moving Target for PvP, Fourth Time for champions or tougher enemies.
+dimwishlist:item=3654674561&perks=1354429876
+
+// Dead Man's Tale (PvE)
+//notes:Paul Tassi - These each have their own use case, Vorpal for champions or supering enemies, Moving Target for PvP, Fourth Time for champions or tougher enemies.|tags:pve
+dimwishlist:item=3654674561&perks=1546637391
+
+
+// Dead Man's Tale (PvP)
+//notes:Paul Tassi - These each have their own use case, Vorpal for champions or supering enemies, Moving Target for PvP, Fourth Time for champions or tougher enemies.|tags:pvp
+dimwishlist:item=3654674561&perks=588594999
+
